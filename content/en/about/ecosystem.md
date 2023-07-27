@@ -85,7 +85,7 @@ title: Falco Ecosystem
   {{< /tab >}}
 
   {{< tab name="End-users" >}}
-  <p class="mt-4 mb-5">Falco elevates threat detection and response in companies and organizations around the world.</p>
+  <p class="mt-4 mb-5">Falco elevates threat detection in companies and organizations around the world.</p>
 
   <h3 class="mt-5">Falco is used by</h3>
 
